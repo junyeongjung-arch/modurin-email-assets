@@ -9,7 +9,7 @@ This repository exists only to host MODURIN e-mail banner images. It is not an o
 
 ## 파일
 
-- `modurin-banner-top.jpg` — 상단 배너 (600×363)
+- `modurin-banner-top.jpg` — 상단 배너 (600×336)
 - `modurin-banner-bottom.gif` — 하단 배너 (600×116, 회전 워드마크)
 
 이미지는 별도 프로젝트의 스크립트로 생성되며, 이 저장소에는 결과물만 올립니다.

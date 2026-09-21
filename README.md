@@ -12,5 +12,6 @@ This repository exists only to host MODURIN e-mail banner images. It is not an o
 - `modurin-banner-top.jpg` — 상단 배너 (600×336)
 - `modurin-banner-bottom.gif` — 하단 배너 (600×116, 회전 워드마크)
 - `email/v2-height88-a687e7968672/modurin-email-top-v2.gif`, `email/v2-height88-a687e7968672/modurin-email-bottom-v2.gif` — V2 상단·하단 배너 (각 600×88, 2× 1200×176 GIF, 10.5초 루프)
+- `email/v2-height88-fcc8defcbe26/modurin-email-top-v2.gif`, `email/v2-height88-fcc8defcbe26/modurin-email-bottom-v2.gif` — V2 상단·하단 배너 (각 600×88, 2× 1200×176 GIF, 10.5초 루프)
 
 이미지는 별도 프로젝트의 스크립트로 생성되며, 이 저장소에는 결과물만 올립니다.
